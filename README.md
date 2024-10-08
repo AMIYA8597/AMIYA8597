@@ -1,5 +1,7 @@
 
-# 👋 Hi, I'm @AMIYA8597
+# 👋 Hi, I'm AMIYA CHOWDHURY
+
+Welcome to My Profile
 
 <a href="https://amiya8597.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
@@ -8,7 +10,12 @@
 
 ## 🚀 Blockchain Developer
 
-I specialize in blockchain development, with hands-on experience in DAOs, DeFi, DEX, and core blockchain technologies. I’m also proficient in MERN stack, combining my skills to build cutting-edge solutions.
+I'm
+Blockchain Developer with over 2 years of expertise in Solidity and smart contract development. I specialize in Defi, NFTs, and NFT Marketplaces on Ethereum and Blockchain. Skilled in using Hardhat and Truffle for decentralized app development. Proficient in compiling, testing, and deploying smart contracts on both testnet and mainnet.
+
+Knowledgeable in Defi protocols such as Staking, Vesting, Uniswap, Pancake Swap, Yield farms, Syrup Pools, Lottery Systems, DAOS, and Dex. Familiar with ERC20, ERC721, EIP 712, and ERC1155 standards.
+
+Experienced in advanced blockchain concepts, including Chainlink Keepers, Relayers, upgradable contracts, Deflationary tokens, Reflection tokens, and IDO. Proficient in using Ethereum wallets like Mist and Metamask for Ether storage, acceptance, and transactions. Always stay updated on the latest trends and innovations in the blockchain space.
 
 ### 🛠️ Technologies & Tools
 
