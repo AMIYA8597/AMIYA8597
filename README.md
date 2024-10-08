@@ -1,6 +1,11 @@
 
 # 👋 Hi, I'm @AMIYA8597
 
+<a href="https://amiya8597.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Amiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amiya-chowdhury74765/)](https://www.linkedin.com/in/amiya-chowdhury74765/)
+
+
 ## 🚀 Blockchain & Full-Stack Developer
 
 I specialize in blockchain development, with hands-on experience in DAOs, DeFi, DEX, and core blockchain technologies. I’m also proficient in IoT and the MERN stack, combining my skills to build cutting-edge solutions.
