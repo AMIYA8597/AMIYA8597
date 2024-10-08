@@ -6,9 +6,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Amiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amiya-chowdhury74765/)](https://www.linkedin.com/in/amiya-chowdhury74765/)
 
 
-## 🚀 Blockchain & Full-Stack Developer
+## 🚀 Blockchain Developer
 
-I specialize in blockchain development, with hands-on experience in DAOs, DeFi, DEX, and core blockchain technologies. I’m also proficient in IoT and the MERN stack, combining my skills to build cutting-edge solutions.
+I specialize in blockchain development, with hands-on experience in DAOs, DeFi, DEX, and core blockchain technologies. I’m also proficient in MERN stack, combining my skills to build cutting-edge solutions.
 
 ### 🛠️ Technologies & Tools
 
@@ -18,12 +18,10 @@ I specialize in blockchain development, with hands-on experience in DAOs, DeFi, 
 ![Frontend](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![Backend](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3bac3a)
 ![Database](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 🏆 Projects & Achievements
 
