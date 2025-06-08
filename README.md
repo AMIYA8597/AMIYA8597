@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Amiya Chowdhury
 
 🚀 Blockchain Developer | 🧠 Lifelong Learner | 💻 Full-Stack Web3 Engineer  
-🌐 [Portfolio](https://amiya8597.github.io/) • [LinkedIn](https://www.linkedin.com/in/amiya-chowdhury74765/) • [GitHub](https://github.com/AMIYA8597)
+🌐 [Portfolio](https://my-portfolio-three-tau-45.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amiya-chowdhury74765/) • [GitHub](https://github.com/AMIYA8597)
 
 ---
 
