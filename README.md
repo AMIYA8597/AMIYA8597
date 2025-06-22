@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a passionate **Blockchain Developer** with 2+ years of experience in building decentralized apps on Ethereum and other EVM-compatible chains.  
+I'm a passionate **Blockchain Developer** with 2+ years of experience in building decentralized apps on Ethereum and other EVM-compatible chains.  
 Currently learning **Solana, Rust, TON, and Tact** to expand into the multi-chain future.
 
 ---
@@ -48,7 +48,7 @@ Currently learning **Solana, Rust, TON, and Tact** to expand into the multi-chai
 - 💰 **DeFi Protocol:** Lending, borrowing, yield farming with liquidation logic.
 - 🎰 **Blockchain Lottery:** Chainlink-powered provably fair system.
 - 🖼️ **NFT Marketplace:** Supports ERC721, ERC1155, auction + royalties.
-- 🔧 **DEAR Protocol (L1 Blockchain):** Custom EVM-based chain with community-focused airdrops.
+- 🚀 **Multi-Chain DApps:** Building cross-chain compatible applications on multiple EVM networks.
 
 ---
 
@@ -64,51 +64,121 @@ Currently learning **Solana, Rust, TON, and Tact** to expand into the multi-chai
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMIYA8597&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIYA8597&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AMIYA8597&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIYA8597&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</div>
 
 ---
 
-## 🔥 Daily Contribution Streak
+## 🔥 GitHub Streak Stats (Multiple Sources for Reliability)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AMIYA8597&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
+<!-- Primary Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AMIYA8597&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+</div>
+
+<!-- Backup Streak Stats #1 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AMIYA8597&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats Backup"/>
+</div>
+
+<!-- Backup Streak Stats #2 -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AMIYA8597&theme=dark&hide_border=true" alt="GitHub Streak Stats Alternative"/>
+</div>
+
+<!-- Manual Streak Counter (if automated ones fail) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Current%20Streak-🔥%20Days-orange?style=for-the-badge&logo=github" alt="Current Streak"/>
+  <img src="https://img.shields.io/badge/Longest%20Streak-🌟%20Days-yellow?style=for-the-badge&logo=github" alt="Longest Streak"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMIYA8597&theme=onestar&no-frame=true&column=7"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AMIYA8597&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 📅 Contribution Calendar
+## 📈 Contribution Activity
 
-[![Amiya's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AMIYA8597&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMIYA8597&theme=react-dark&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph"/>
+</div>
+
+---
+
+## 💻 Comprehensive GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMIYA8597&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMIYA8597&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMIYA8597&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMIYA8597&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AMIYA8597&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</div>
 
 ---
 
 ## 🚀 Goals for 2025
 
-- 🛠️ Launch DEAR Protocol testnet
 - 🌉 Build cross-chain bridges (EVM ↔ Solana ↔ TON)
 - 🧠 Master Solana (Anchor), Rust, Tact smart contracts
 - 🎓 Publish tutorials and open-source starter kits
 - 👨‍🏫 Train 500+ students through blockchain courses
+- 🔧 Contribute to major open-source blockchain projects
 
 ---
 
-## 📬 Let's Connect!
+## 📱 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiya-chowdhury74765/)
-[![GitHub](https://img.shields.io/github/followers/AMIYA8597?style=flat-square&logo=github)](https://github.com/AMIYA8597)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-4F44D6?style=flat-square&logo=githubpages&logoColor=white)](https://amiya8597.github.io/)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiya-chowdhury74765/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMIYA8597)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-three-tau-45.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiya.blockchain@gmail.com)
+
+</div>
 
 ---
 
-_Thank you for visiting my profile! Let's build the decentralized future together._ ✨
+## 📊 Profile Analytics
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AMIYA8597&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/AMIYA8597?label=Followers&style=for-the-badge&color=blue)](https://github.com/AMIYA8597)
+[![GitHub stars](https://img.shields.io/github/stars/AMIYA8597?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/AMIYA8597)
+
+</div>
+
+---
+
+## 🎯 Contribution Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AMIYA8597&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&custom_title=Amiya's%20GitHub%20Stats" alt="Detailed GitHub Stats"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff"/>
+</div>
+
+**💡 Philosophy:** _"Building the future of decentralized technology, one smart contract at a time."_
+
+---
+
+**⚡ Fun Fact:** I believe blockchain technology will revolutionize how we interact with digital assets and create more transparent, decentralized systems for everyone!
