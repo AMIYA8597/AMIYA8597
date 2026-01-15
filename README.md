@@ -1,17 +1,17 @@
 # 👋 Hello, I'm Amiya Chowdhury
 
-🚀 Blockchain Developer | 🤖 AI/ML Engineer | 🧠 Lifelong Learner | 💻 Full-Stack Web3 & AI Engineer  
+🚀 Blockchain Developer | 🤖 AI/ML Engineer | 🔐 Security Enthusiast | 💻 Full-Stack Web3 Engineer  
 🌐 [Portfolio](https://my-portfolio-three-tau-45.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amiya-chowdhury74765/) • [GitHub](https://github.com/AMIYA8597)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Blockchain Developer** and **AI/ML Engineer** with 2+ years of experience in building decentralized applications on Ethereum and other EVM-compatible chains, combined with cutting-edge AI/ML solutions.  
+I'm a passionate **Blockchain Developer**, **AI/ML Engineer**, and **Security Enthusiast** with 2+ years of experience building decentralized applications on Ethereum and other EVM-compatible chains, combined with cutting-edge AI/ML solutions.  
 
-Currently exploring the intersection of **Blockchain & AI**, learning **Solana, Rust, TON, Tact**, and advancing my expertise in **Large Language Models (LLMs)**, **Deep Learning**, and **Advanced Systems Programming**.
+Currently exploring the intersection of **Blockchain, AI & Cybersecurity** - learning **Solana, Rust, TON, Tact**, advancing expertise in **Large Language Models (LLMs)**, and diving deep into **Ethical Hacking** and **Smart Contract Security**.
 
-🎯 **Mission:** Bridging the gap between decentralized technology and artificial intelligence to create next-generation intelligent applications.
+🎯 **Mission:** Building secure, intelligent, and decentralized systems that bridge blockchain technology, artificial intelligence, and robust cybersecurity practices.
 
 ---
 
@@ -26,12 +26,20 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
 
-### Blockchain Learning Zone  
+### Learning Zone  
 ![Solana](https://img.shields.io/badge/Solana-4E44CE?style=flat-square&logo=solana&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TON](https://img.shields.io/badge/TON-0088CC?style=flat-square&logo=telegram&logoColor=white)
 ![Tact](https://img.shields.io/badge/Tact-232F3E?style=flat-square&logo=the-open-network&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-663399?style=flat-square&logo=solana&logoColor=white)
+
+### Cybersecurity & Ethical Hacking  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 
 ### AI/ML & Data Science  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -89,31 +97,26 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 
 ---
 
-## 🧩 Featured Projects & Milestones
+## 🧩 Featured Projects & Expertise
 
-### 🔗 Blockchain Projects
-- 🔁 **Decentralized Exchange (DEX):** AMM protocol with liquidity pools, token swaps, staking, and yield farming mechanisms
-- 📜 **DAO Governance Platform:** Token-weighted voting system with proposal creation and automated execution
-- 💰 **DeFi Protocol Suite:** Complete lending/borrowing platform with yield farming and liquidation logic
-- 🎰 **Blockchain Lottery System:** Chainlink VRF-powered provably fair lottery with transparent randomness
-- 🖼️ **NFT Marketplace:** Full-featured marketplace supporting ERC721 & ERC1155 with auctions, bidding, and royalty mechanisms
-- 🚀 **Multi-Chain DApps:** Cross-chain compatible applications deployed on Ethereum, BSC, Polygon, and Avalanche
-- 🔐 **Smart Contract Security Auditor:** Automated vulnerability detection tool for Solidity contracts
+### 🔗 Blockchain Development
+Built production-ready DeFi protocols, NFT marketplaces, and DAO governance systems on Ethereum, BSC, and Polygon. Specialized in smart contract security auditing and cross-chain interoperability solutions.
 
-### 🤖 AI/ML Projects
-- 🧠 **LLM-Powered ChatBot:** Custom chatbot using RAG (Retrieval Augmented Generation) with vector databases
-- 📊 **Predictive Analytics Engine:** Machine learning models for blockchain transaction pattern analysis
-- 🎨 **AI NFT Generator:** Deep learning model for generating unique NFT artwork with StyleGAN
-- 🔍 **Smart Contract Analyzer:** AI-powered code analysis tool using NLP to detect vulnerabilities
-- 💬 **Blockchain-AI Integration:** Decentralized AI model marketplace with on-chain verification
-- 📈 **Crypto Price Prediction:** LSTM/Transformer models for cryptocurrency price forecasting
-- 🎯 **Sentiment Analysis Tool:** Real-time crypto sentiment analysis from social media using BERT
+**Key Deliverables:** DEX with AMM, Lending Protocol, NFT Marketplace, DAO Platform, Chainlink-integrated Lottery
 
-### 🔧 Systems & Advanced Projects
-- ⚡ **High-Performance Trading Bot:** C++ based low-latency arbitrage bot for DEX platforms
-- 🌐 **Distributed Computing System:** P2P network implementation for decentralized computation
-- 🔐 **Cryptographic Library:** Custom implementation of cryptographic algorithms in C++
-- 🚀 **Blockchain Node Implementation:** Building a custom blockchain node from scratch in Rust
+### 🤖 AI/ML Engineering *(Current Focus)*
+Developing intelligent systems that bridge blockchain and artificial intelligence. Creating RAG-based chatbots, predictive analytics engines, and AI-powered smart contract analyzers.
+
+**Active Projects:** 
+- LLM-powered blockchain code assistant with custom fine-tuning
+- Predictive DeFi risk assessment using deep learning models
+- AI-driven smart contract vulnerability detection system
+- Decentralized AI inference marketplace on-chain
+
+### 🔐 Cybersecurity & Ethical Hacking *(Learning)*
+Exploring security engineering, penetration testing, and vulnerability assessment. Applying these skills to enhance blockchain security and build robust decentralized systems.
+
+**Focus Areas:** Smart contract security audits, Network penetration testing, Cryptographic implementations, Zero-knowledge proofs
 
 ---
 
@@ -133,8 +136,8 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMIYA8597&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIYA8597&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AMIYA8597&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&card_width=450" height="195em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIYA8597&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" height="195em" alt="Top Languages"/>
 </div>
 
 ---
@@ -142,7 +145,7 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 ## 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AMIYA8597&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMIYA8597&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -150,7 +153,7 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMIYA8597&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AMIYA8597&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -158,65 +161,35 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMIYA8597&theme=react-dark&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMIYA8597&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
-
----
-
-## 💻 Comprehensive GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMIYA8597&theme=tokyonight" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMIYA8597&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMIYA8597&theme=tokyonight" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMIYA8597&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AMIYA8597&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
-
----
 
 ## 🎯 Current Focus & Learning Path
 
 ### 🔄 Active Development
-- 🌉 Building cross-chain bridges (EVM ↔ Solana ↔ TON)
-- 🤖 Developing AI-powered smart contract auditing tools
-- 🧠 Training custom LLMs for blockchain code generation
-- 🔐 Implementing zero-knowledge proof systems
+- 🤖 **AI-Blockchain Integration:** Building decentralized AI inference networks with on-chain verification
+- 🔍 **Smart Contract Security:** Developing AI-powered auditing tools and automated vulnerability scanners
+- 🌉 **Cross-Chain Solutions:** Working on EVM ↔ Solana ↔ TON bridge implementations
+- 🧠 **LLM Applications:** Training custom models for blockchain code generation and analysis
 
 ### 📚 Learning & Exploration
-- 🦀 Mastering Rust for Solana development with Anchor framework
-- 🎯 Deep diving into Tact for TON blockchain
-- 🧮 Advanced machine learning techniques (Transformers, GANs, Reinforcement Learning)
-- ⚡ Low-level systems programming with C++ for performance optimization
-- 🔬 Quantum-resistant cryptography for blockchain security
+| Domain | Technologies | Status |
+|--------|-------------|---------|
+| **Blockchain** | Rust + Anchor (Solana), Tact (TON) | 🔄 In Progress |
+| **AI/ML** | Advanced LLMs, RAG Systems, Fine-tuning | 🔄 In Progress |
+| **Security** | Penetration Testing, Cryptography, Network Security | 🌱 Exploring |
+| **Systems** | C++ Performance Optimization, Low-level Programming | 🔄 In Progress |
 
 ---
 
 ## 🚀 Goals for 2025
 
-### Blockchain Goals
-- 🌉 Launch production-ready cross-chain bridge protocol
-- 🧠 Contribute to major blockchain protocol development (Ethereum, Solana)
-- 🎓 Train 1000+ students through advanced blockchain & Web3 courses
-- 📖 Publish comprehensive open-source Web3 development framework
-
-### AI/ML Goals
-- 🤖 Build and deploy decentralized AI inference network
-- 📊 Create blockchain-based AI model marketplace with proof of training
-- 🔍 Develop AI security auditing suite for smart contracts
-- 📝 Publish research papers on AI-Blockchain integration
-
-### Technical Goals
-- 🏗️ Master advanced system design and architecture patterns
-- ⚡ Contribute to 10+ open-source projects in blockchain and AI domains
-- 🎤 Speak at 5+ international conferences on Web3 and AI topics
-- 📚 Write technical blog series on advanced blockchain concepts
+- 🤖 **AI-Blockchain Fusion:** Launch decentralized AI inference marketplace with proof-of-computation
+- 🔐 **Security Excellence:** Complete ethical hacking certifications and conduct 50+ smart contract audits
+- 🌉 **Cross-Chain Innovation:** Build and deploy production-ready multi-chain bridge protocols
+- 🎓 **Knowledge Sharing:** Train 1000+ developers through workshops and open-source contributions
+- 📝 **Thought Leadership:** Publish research on AI-enhanced blockchain security and optimization
+- 🏆 **Open Source:** Contribute to major protocols (Ethereum, Solana) and create developer tooling
 
 ---
 
@@ -245,16 +218,6 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 
 </div>
 
----
-
-## 🎯 Contribution Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMIYA8597&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&custom_title=Amiya's%20GitHub%20Stats&hide_border=true" alt="Detailed GitHub Stats"/>
-</div>
-
----
-
 ## 🌟 Featured Skills Matrix
 
 | Domain | Technologies | Proficiency |
@@ -262,22 +225,24 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 | **Blockchain** | Solidity, Ethers.js, Hardhat, Web3.js | ⭐⭐⭐⭐⭐ |
 | **AI/ML** | Python, TensorFlow, PyTorch, scikit-learn | ⭐⭐⭐⭐⭐ |
 | **LLMs** | GPT-4, LangChain, Hugging Face, RAG | ⭐⭐⭐⭐ |
-| **Systems** | C++, Rust, Go, Memory Management | ⭐⭐⭐⭐ |
+| **Systems** | C++, Rust, Go, Performance Optimization | ⭐⭐⭐⭐ |
 | **Web3** | React, Next.js, TypeScript, Node.js | ⭐⭐⭐⭐⭐ |
+| **Security** | Smart Contract Audits, Penetration Testing | ⭐⭐⭐⭐ |
 | **DevOps** | Docker, Kubernetes, AWS, CI/CD | ⭐⭐⭐⭐ |
 
 ---
 
 ## 💡 Technical Philosophy
 
-> **"Building the future where decentralized technology meets artificial intelligence - creating transparent, intelligent, and trustless systems that empower humanity."**
+> **"Building the future where blockchain, artificial intelligence, and cybersecurity converge - creating secure, intelligent, and trustless systems that empower humanity."**
 
 ### Core Principles
-- 🔐 **Security First:** Write secure, audited, and battle-tested code
-- 🌍 **Decentralization:** Build systems that distribute power and control
-- 🤖 **AI-Enhanced:** Leverage AI to make blockchain technology more accessible
-- 📚 **Knowledge Sharing:** Document and teach to grow the community
-- 🚀 **Innovation:** Always push boundaries and explore new possibilities
+- 🔐 **Security First:** Write secure, audited, and battle-tested code with zero-trust mindset
+- 🌍 **Decentralization:** Build systems that distribute power and control fairly
+- 🤖 **AI-Enhanced:** Leverage AI to make blockchain technology more accessible and intelligent
+- 🛡️ **Defense in Depth:** Apply multiple layers of security in every system
+- 📚 **Knowledge Sharing:** Document, teach, and contribute to grow the community
+- 🚀 **Innovation:** Push boundaries while maintaining security and reliability
 
 ---
 
@@ -287,9 +252,9 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 - ✅ **Deep Learning Specialization** - DeepLearning.AI
 - ✅ **Smart Contract Security** - OpenZeppelin
 - ✅ **AWS Solutions Architect** - Amazon Web Services
-- ✅ **Advanced Solidity Programming** - Ethereum Foundation
+- 🔄 **Certified Ethical Hacker (CEH)** - In Progress
 - 🔄 **Solana Developer Bootcamp** - In Progress
-- 🔄 **Advanced System Design** - In Progress
+- 🔄 **Advanced Penetration Testing** - In Progress
 
 ---
 
@@ -314,14 +279,13 @@ Currently exploring the intersection of **Blockchain & AI**, learning **Solana, 
 ## 🤝 Open for Collaboration
 
 I'm actively looking to collaborate on:
-- 🔗 Cross-chain bridge development
-- 🤖 AI-powered blockchain analytics
-- 🎨 NFT projects with AI-generated art
-- 🔐 Smart contract security tools
-- 📊 DeFi protocols with ML-based risk assessment
-- 🌍 Open-source Web3 education platforms
+- 🤖 **AI-Blockchain Integration:** Decentralized AI marketplaces and inference networks
+- 🔐 **Security Research:** Smart contract auditing tools and vulnerability detection
+- 🌉 **Cross-Chain Development:** Bridge protocols and multi-chain dApps
+- 🧠 **LLM Applications:** Fine-tuning models for Web3 and blockchain use cases
+- 🎓 **Educational Content:** Open-source learning platforms and developer tools
 
-**Feel free to reach out if you're working on something exciting!**
+**Let's connect if you're working on cutting-edge Web3, AI, or security projects!**
 
 ---
 
