@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Amiya Chowdhury
 
 🚀 Blockchain Developer | 🤖 AI/ML Engineer | 🔐 Security Enthusiast | 💻 Full-Stack Web3 Engineer  
-🌐 [Portfolio](https://my-portfolio-three-tau-45.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amiya-chowdhury74765/) • [GitHub](https://github.com/AMIYA8597)
+🌐 [Portfolio](https://amiya-ai.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amiya-chowdhury74765/) • [GitHub](https://github.com/AMIYA8597)
 
 ---
 
@@ -199,7 +199,7 @@ Exploring security engineering, penetration testing, and vulnerability assessmen
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiya-chowdhury74765/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMIYA8597)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-three-tau-45.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amiya-ai.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiyachowdhury04@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AMIYACHOWDHUR14)
 
