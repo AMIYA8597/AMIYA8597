@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Amiya Chowdhury
 
 🚀 Blockchain Developer | 🤖 AI/ML Engineer | 🔐 Security Enthusiast | 💻 Full-Stack Web3 Engineer  
-🌐 [Portfolio](https://amiya-ai.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amiya-chowdhury74765/) • [GitHub](https://github.com/AMIYA8597) • [YouTube](https://www.youtube.com/@amiya.all-all)
+🌐 [Portfolio](https://amiya-ai.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amiya-chowdhury-nit-rkl/) • [GitHub](https://github.com/AMIYA8597) • [YouTube](https://www.youtube.com/@amiya.all-all)
 
 ---
 
